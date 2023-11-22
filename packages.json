@@ -2,6 +2,11 @@
     {
         "package": "rapt",
 	      "url": "https://github.com/Yousuf28/rapt"
+    },
+    {
+	"package": "toxSummary",
+		"url": "https://github.com/phuse-org/toxSummary"
+
     }
     
 ]
