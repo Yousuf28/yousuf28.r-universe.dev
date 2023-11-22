@@ -7,6 +7,10 @@
 	"package": "toxSummary",
 		"url": "https://github.com/phuse-org/toxSummary"
 
-    }
+    },
+	{
+		"package": "sendigR",
+		"url": "https://github.com/phuse-org/sendigR"
+	}
     
 ]
