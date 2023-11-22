@@ -10,8 +10,17 @@ install.packages('rapt', repos = c('https://yousuf28.r-universe.dev', 'https://c
 ```
 install.packages('toxSummary', repos = c('https://yousuf28.r-universe.dev', 'https://cloud.r-project.org'))
 ```
+```
+install.packages('sendigR', repos = c('https://yousuf28.r-universe.dev', 'https://cloud.r-project.org'))
+```
 
 webr
 ```
 install.packages('rapt', repos = c('https://yousuf28.r-universe.dev', 'https://repo.r-wasm.org'))
+```
+```
+install.packages('toxSummary', repos = c('https://yousuf28.r-universe.dev', 'https://repo.r-wasm.org'))
+```
+```
+install.packages('sendigR', repos = c('https://yousuf28.r-universe.dev', 'https://repo.r-wasm.org'))
 ```
