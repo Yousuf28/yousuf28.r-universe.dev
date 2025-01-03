@@ -14,6 +14,10 @@ install.packages('toxSummary', repos = c('https://yousuf28.r-universe.dev', 'htt
 install.packages('sendigR', repos = c('https://yousuf28.r-universe.dev', 'https://cloud.r-project.org'))
 ```
 
+```
+install.packages("SENDsanitizer", repos = c("https://yousuf28.r-universe.dev", "https://cloud.r-project.org"))
+```
+
 webr
 ```
 install.packages('rapt', repos = c('https://yousuf28.r-universe.dev', 'https://repo.r-wasm.org'))
@@ -24,3 +28,7 @@ install.packages('toxSummary', repos = c('https://yousuf28.r-universe.dev', 'htt
 ```
 install.packages('sendigR', repos = c('https://yousuf28.r-universe.dev', 'https://repo.r-wasm.org'))
 ```
+
+```
+install.packages("SENDsanitizer", repos = c("https://yousuf28.r-universe.dev", "https://repo.r-wasm.org"))
+``` 
