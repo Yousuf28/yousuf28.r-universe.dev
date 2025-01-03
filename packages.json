@@ -11,6 +11,12 @@
 	{
 		"package": "sendigR",
 		"url": "https://github.com/phuse-org/sendigR"
+	},
+	{
+		"package":"SENDsanitizer",
+		"url": "https://github.com/phuse-org/SENDsanitizer"
+
+		
 	}
     
 ]
